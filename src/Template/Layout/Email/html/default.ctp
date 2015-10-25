@@ -9,7 +9,7 @@
         background: #6db3f2;
         color: white;
         padding: 20px;
-         "><img src="cid:logo-id" alt="logo"/></div>
+         "><img src="cid:logo-id" alt="Tienda Online"/></div>
     <div style="
         padding: 10px;
         min-height: 200px;
